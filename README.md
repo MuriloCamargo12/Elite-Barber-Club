@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ✂️ Barbearia Landing Page
 
-## Getting Started
+Aplicação web desenvolvida para uma barbearia moderna, com foco em design elegante, experiência do usuário e responsividade.
 
-First, run the development server:
+O projeto foi desenvolvido utilizando Next.js, React e TypeScript, aplicando boas práticas de componentização, animações suaves e UI moderna.
+
+---
+
+## 🚀 Deploy
+
+🔗 **Acesse o projeto online:**  
+https://elite-barber-club.vercel.app/
+
+---
+
+## ▶️ Como rodar o projeto localmente
 
 ```bash
+# Clonar o repositório
+git clone https://github.com/MuriloCamargo12/Elite-Barber-Club.git
+
+# Entrar na pasta do projeto
+cd elite-barber-club
+
+# Instalar dependências
+npm install
+
+# Rodar o projeto
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tecnologias utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Next.js (App Router)
+- React (Hooks)
+- TypeScript
+- Tailwind CSS
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📚 Bibliotecas utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- AOS (Animate On Scroll)
+- Tabler Icons
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## ⚙️ Funcionalidades
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- ✂️ Landing page moderna para barbearia  
+- 📱 Layout totalmente responsivo (mobile e desktop)  
+- ✨ Animações suaves ao scroll utilizando AOS  
+- 🎨 Interface moderna com foco em experiência do usuário  
+- 📍 Sessões informativas sobre serviços e horários  
+- 📞 Botão de contato rápido via WhatsApp  
+- ⚡ Navegação fluida e otimizada  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🧠 Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei:
+
+- Estruturação de interfaces modernas com Next.js
+- Componentização utilizando React
+- Responsividade com Tailwind CSS
+- Uso de animações com AOS
+- Organização visual e hierarquia de conteúdo
+- Otimização de layout para diferentes dispositivos
+- Deploy e hospedagem na Vercel
+
+---
+
+## 🆘 Precisa de ajuda?
+
+Entre em contato comigo pelo Linkedin:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-camargo-morais-9b94463b2/)
